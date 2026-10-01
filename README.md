@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/profile-banner.png" width="100%" alt="Warm applied data science workspace at sunset">
+
 # Hi, I'm Jasper Fan-Chiang 👋
 
 ### Applied Data Science | Machine Learning | Data Engineering
@@ -40,9 +42,9 @@ I enjoy building end-to-end data solutions - from data validation, preprocessing
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-2C3E50?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white)
 
 ### Data, Applications & Workflow
 
@@ -58,6 +60,8 @@ I enjoy building end-to-end data solutions - from data validation, preprocessing
 
 ### 🏡 [California Residential Price Modeling - IDX Exchange](https://github.com/jasperfc/IDX-Exchange)
 
+[<img src="./assets/idx-exchange-project.jpg" width="100%" alt="California residential property modeling project">](https://github.com/jasperfc/IDX-Exchange)
+
 - Built a leakage-aware machine learning pipeline for **370K+ California residential property transactions**.
 - Engineered temporal, geospatial, property, and school-district features with Pandas and GeoPandas.
 - Compared Random Forest, XGBoost, and LightGBM; LightGBM achieved a held-out **R² of approximately 0.906**.
@@ -66,6 +70,8 @@ I enjoy building end-to-end data solutions - from data validation, preprocessing
 **Tech:** Python · Pandas · GeoPandas · scikit-learn · XGBoost · LightGBM · Streamlit
 
 ### ⛽ [Weekly Gasoline Price Forecasting](https://github.com/jasperfc/Weekly-Gasoline-Price-Forecasting)
+
+[<img src="./assets/gasoline-forecasting.png" width="100%" alt="Weekly gasoline price model predictions compared with actual prices">](https://github.com/jasperfc/Weekly-Gasoline-Price-Forecasting)
 
 - Built an end-to-end pipeline for forecasting weekly U.S. gasoline prices.
 - Engineered lag, rolling-window, momentum, and seasonal features for time-series modeling.
